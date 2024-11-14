@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taniya-yasmin&show_icons=true&locale=en&layout=compact" alt="taniya-yasmin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taniya-yasmin&show_icons=true&locale=en" alt="taniya-yasmin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taniya-yasmin&" alt="taniya-yasmin" /></p>
