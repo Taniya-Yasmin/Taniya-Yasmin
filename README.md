@@ -1,3 +1,4 @@
+![logo] (https://github.com/Taniya-Yasmin/Taniya-Yasmin/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hey , I'm Taniya Yasmin</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
