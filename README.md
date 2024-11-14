@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniya-yasmin&label=Profile%20views&color=0e75b6&style=flat" alt="taniya-yasmin" /> </p>
 
+- Pursuing computer science and engineering 
+
 - 🔭 Building a Linktree Clone in Next.js *Linktree clone*
 
 - 🌱 I’m currently learning *Data structures and algorithm*
