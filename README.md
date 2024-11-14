@@ -5,7 +5,7 @@
 
 - 💻 Pursuing computer science and engineering 
 
-- 🔭 Building a Linktree Clone in Next.js *Linktree clone*
+- 🔭 Building a Linktree Clone in Next.js 
 
 - 🌱 I’m currently learning *Data structures and algorithm*
 
