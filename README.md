@@ -14,7 +14,6 @@ I am a Computer Science undergraduate with strong expertise in web development, 
 Building scalable backend systems , Improving DSA with LeetCode , Learning DevOps & Cloud , Developing real-world projects
 </p>
 
-<hr>
 <h3 align="center">👨🏻‍💻 Languages and Tools</h3>
 
 <p align="center">
