@@ -50,5 +50,5 @@ Building scalable backend systems , Improving DSA with LeetCode , Learning DevOp
 
 <p align="center">
   🚀 Improving my problem-solving skills with  
-  <a href="[https://leetcode.com/YOUR_LC_USERNAME/](https://leetcode.com/u/TanCodess/)" target="_blank"><b>LeetCode</b></a>
+  <a href="https://leetcode.com/u/TanCodess/" target="_blank"><b>LeetCode</b></a>
 </p>
