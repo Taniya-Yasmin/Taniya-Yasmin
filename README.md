@@ -6,7 +6,6 @@
 I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.
 </p>
 
-<h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniya-yasmin&label=Profile%20views&color=0e75b6&style=flat" alt="taniya-yasmin" /> </p>
 
