@@ -10,10 +10,10 @@ I am a Computer Science undergraduate with strong expertise in web development, 
 <h3 align="center">🎯 Currently Focused On</h3>
 
 <p align="center">
-Building scalable backend systems • Improving DSA with LeetCode • Learning DevOps & Cloud • Developing real-world projects
+Building scalable backend systems , Improving DSA with LeetCode , Learning DevOps & Cloud , Developing real-world projects
 </p>
 
-
+---
 <h3 align="center">👨🏻‍💻 Languages and Tools</h3>
 
 <p align="center">
