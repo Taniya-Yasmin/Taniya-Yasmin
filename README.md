@@ -37,8 +37,6 @@ Building scalable backend systems , Improving DSA with LeetCode , Learning DevOp
   <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
 </p>
 
----
-
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank">
