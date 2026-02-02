@@ -1,4 +1,7 @@
-![logo](https://github.com/Taniya-Yasmin/Taniya-Yasmin/blob/main/Banner.png)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/name.svg" />
+</h1>
+
 <h1 align="center">Hey , I'm Taniya Yasmin</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
