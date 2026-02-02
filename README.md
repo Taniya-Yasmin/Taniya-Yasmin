@@ -46,5 +46,5 @@ I am a Computer Science undergraduate with strong expertise in web development, 
 
 <p align="center">
   🚀 Improving my problem-solving skills with  
-  <a href="https://leetcode.com/YOUR_LC_USERNAME/" target="_blank"><b>LeetCode</b></a>
+  <a href="https://leetcode.com/YOUR_LC_USERNAME/" target="blank"><b>LeetCode</b></a>
 </p>
