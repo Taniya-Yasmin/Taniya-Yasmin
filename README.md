@@ -13,15 +13,22 @@ I am a Computer Science undergraduate with strong expertise in web development, 
    <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
- <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png">
+   <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
+      <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
+      
+
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
+
 
 
 </p>
