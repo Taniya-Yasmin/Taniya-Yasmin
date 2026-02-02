@@ -6,7 +6,8 @@
 I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.
 </p>
 
----
+<hr>
+
 <h3 align="center">🎯 Currently Focused On</h3>
 
 <p align="center">
