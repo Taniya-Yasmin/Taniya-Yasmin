@@ -39,16 +39,16 @@ Building scalable backend systems , Improving DSA with LeetCode , Learning DevOp
 ---
 
 <h3 align="center">📫 How to reach me</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  
+
   <a href="mailto:taniyayasmin65@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
 </p>
+
 
 <p align="center">
   🚀 Improving my problem-solving skills with  
