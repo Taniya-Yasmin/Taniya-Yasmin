@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/name.svg" />
+  <img src="https://raw.githubusercontent.com/Taniya-Yasmin/Taniya-Yasmin/main/name.svg" />
 </h1>
 
 <h1 align="center">Hey , I'm Taniya Yasmin</h1>
