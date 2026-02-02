@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Taniya-Yasmin/Taniya-Yasmin/main/name.svg" />
 </h1>
-
+---
 <p align="center">
 I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.
 </p>
