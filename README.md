@@ -11,7 +11,7 @@
 <h3 align="left">I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.</h3>
 
 ###
-
+<h3 align="center">Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
