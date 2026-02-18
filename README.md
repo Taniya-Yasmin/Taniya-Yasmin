@@ -1,54 +1,118 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Taniya-Yasmin/Taniya-Yasmin/main/name.svg" />
-</h1>
+<h1 align="center">hey there 👋</h1>
 
-<p align="center">
-I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.
-</p>
+###
 
-<hr>
+<br clear="both">
 
-<h3 align="center">🎯 Currently Focused On</h3>
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-<p align="center">
-Building scalable backend systems , Improving DSA with LeetCode , Learning DevOps & Cloud , Developing real-world projects
-</p>
+###
 
-<h3 align="center">👨🏻‍💻 Languages and Tools</h3>
+<h3 align="left">I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.</h3>
 
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
-</p>
+###
 
-<h3 align="center">📫 How to reach me</h3>
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:taniyayasmin65@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
+  <a href="taniyayasmin65@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</p>
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
+</div>
 
+###
 
+<br clear="both">
 
-<p align="center">
-  🚀 Improving my problem-solving skills with  
-  <a href="https://leetcode.com/u/TanCodess/" target="_blank"><b>LeetCode</b></a>
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taniya-Yasmin.Taniya-Yasmin&"  />
+</div>
+
+###
+
+<p align="left">🔭 Currently building production-ready Full Stack applications  <br>🤝 Open to collaborating on scalable backend & DevOps projects  <br>🌱 Learning Kubernetes, AWS & System Design  <br>💬 Improving DSA with LeetCode<br>⚡ Goal: Land a high-impact product-based tech role</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Taniya-Yasmin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taniya-Yasmin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taniya-Yasmin&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
