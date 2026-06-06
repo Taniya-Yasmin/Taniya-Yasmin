@@ -96,7 +96,6 @@
 
 ###
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taniya-Yasmin&show_icons=true&theme=dark" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya-Yasmin&theme=github_dark" />
 </p>
-
