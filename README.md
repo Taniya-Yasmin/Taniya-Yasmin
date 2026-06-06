@@ -97,5 +97,5 @@
 ###
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=Taniya-Yasmin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Taniya-Yasmin&theme=dark)
 </div>
