@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 Currently building production-ready Full Stack applications  <br>🤝 Open to collaborating on scalable backend & DevOps projects  <br>🌱 Learning Kubernetes, AWS & System Design  <br>💬Improving DSA with LeetCode (<a href="YOUR_LEETCODE_LINK">Profile</a>) <br>
+<p align="left">🔭 Currently building production-ready Full Stack applications  <br>🤝 Open to collaborating on scalable backend & DevOps projects  <br>🌱 Learning Kubernetes, AWS & System Design  <br>💬Improving DSA with LeetCode (<a href="https://leetcode.com/u/TanCodess/">Profile</a>) <br>
 
 ###
 
