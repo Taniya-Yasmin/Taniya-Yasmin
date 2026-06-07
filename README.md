@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 Currently building production-ready Full Stack applications  <br>🤝 Open to collaborating on scalable backend & DevOps projects  <br>🌱 Learning Kubernetes, AWS & System Design  <br>💬 Improving DSA with LeetCode <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank"><br>⚡ Goal: Land a high-impact product-based tech role</p>
+<p align="left">🔭 Currently building production-ready Full Stack applications  <br>🤝 Open to collaborating on scalable backend & DevOps projects  <br>🌱 Learning Kubernetes, AWS & System Design  <br>💬Improving DSA with LeetCode (<a href="YOUR_LEETCODE_LINK">Profile</a>) <br>
 
 ###
 
