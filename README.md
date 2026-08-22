@@ -65,6 +65,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+<img width="12" />
 
   <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
