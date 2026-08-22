@@ -12,17 +12,10 @@
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-
-  <a href="mailto:taniyayasmin65@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-
-  <a href="https://x.com/Taniya_Yasmin_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="mailto:taniyayasmin65@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
+  <a href="https://x.com/Taniya_Yasmin_E" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
+</div>
 </div>
 
 
