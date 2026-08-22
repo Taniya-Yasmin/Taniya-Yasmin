@@ -34,20 +34,7 @@
 ###
 
 <div align="left">
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
-  <img width="12" />
-
-  <!-- Web Development -->
+ <!-- Web Development -->
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
@@ -58,6 +45,20 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <img width="12" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+  <img width="12" />
+ 
+
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
@@ -73,8 +74,6 @@
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img width="12" />
