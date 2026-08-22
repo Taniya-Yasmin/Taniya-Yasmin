@@ -10,14 +10,18 @@
 
 <h3 align="left">I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.</h3>
 
-###
 <h3 align="left">Connect with me</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/taniya-yasmin-821b4827b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="taniyayasmin65@gmail.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+
+  <a href="mailto:taniyayasmin65@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
 
