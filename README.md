@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I am a Computer Science undergraduate with strong expertise in web development, backend systems, and DevOps. I actively build real-world projects, explore new technologies, and sharpen my problem-solving skills.</h3>
+<h3 align="left">I am a Computer Science undergraduate with hands-on experience in building full-stack web applications. I enjoy solving real-world problems through DSA and system design while exploring new tech.</h3>
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
