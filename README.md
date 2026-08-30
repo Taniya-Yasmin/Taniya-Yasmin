@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I’m a Computer Science undergraduate with experience building full-stack web applications and real-time systems.</h3>
+<h3 align="left">I’m a Computer Science undergraduate with experience in building full-stack web applications and real-time systems.</h3>
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
